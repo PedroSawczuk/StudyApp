@@ -1,16 +1,24 @@
+.navbar-nav .nav-item .nav-link {
+    color: #ffffff;
+}
+
+.navbar-nav .nav-item .nav-link:hover {
+    color: #dacece;
+}
+
 #inicio_section {
     background-color: #0f0f0f;
     padding: 1em 0;
     color: #f8f8f8;
 }
 
-#inicio_section > h1 {
+#inicio_section>h1 {
     text-align: center;
     padding: .5em 0;
     font-size: 3.50em;
 }
 
-#inicio_section > p {
+#inicio_section>p {
     text-align: center;
     font-size: 1.50em;
 }
@@ -18,5 +26,49 @@
 span.code-boost {
     color: purple;
     font-weight: bold;
+}
+
+#app_section {
+    color: #0f0f0f;
+}
+
+#app_section>h1 {
+    text-align: center;
+    padding: .5em 0;
+    font-size: 3.50em;
+}
+
+#app_section>p {
+    text-align: center;
+    font-size: 1.50em;
+}
+
+#contato_section {
+    text-align: center;
+    color: #f8f8f8;
+    background-color: #0f0f0f;
+}
+
+#contato_section>h1 {
+    text-align: center;
+    padding: .5em 0;
+    font-size: 3.50em;
+}
+
+#contato_section>p {
+    text-align: center;
+    font-size: 1.50em;
+}
+
+.links {
+    color: #f8f8f8;
+    text-decoration: none;
+    font-weight: bold;
+    text-align: center;
+}
+
+footer {
+    background-color: #111111;
+    color: #f8f8f8;
 }
 
