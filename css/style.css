@@ -1,0 +1,22 @@
+#inicio_section {
+    background-color: #0f0f0f;
+    padding: 1em 0;
+    color: #f8f8f8;
+}
+
+#inicio_section > h1 {
+    text-align: center;
+    padding: .5em 0;
+    font-size: 3.50em;
+}
+
+#inicio_section > p {
+    text-align: center;
+    font-size: 1.50em;
+}
+
+span.code-boost {
+    color: purple;
+    font-weight: bold;
+}
+
